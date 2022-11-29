@@ -13,23 +13,48 @@
 }
  .width{
     width: 101px;
- }
+}
  .list-style_none{
     list-style: none;
- }
-.input{
-    background: rgb(192, 190, 190);
+}
+.background-cinza{ 
+    background: rgb(192, 190, 190);}
+.border-radius{
     border-radius: 90px;
+}
+.border-none{
     border: none;
+}
+.width-350px{
     width: 350px;
+}
+.padding-10px{
     padding: 10px;
+}
+.height-46px{
     height: 46px;
+}
+.margin-top_20px{
     margin-top: 20px;
 }
-.button{
+
+.display{
+display: none;
+}
+.height-42px{
     height: 42px;
+} 
+.width-45px{
     width: 45px;
+}
+.margin-top_21px{
     margin-top: 21px;
+}
+.margin-left_10px{
     margin-left: 10px;
+}
+.fontsize-size{
     font-size: 10px;
 }
+
+
