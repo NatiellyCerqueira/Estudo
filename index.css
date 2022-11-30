@@ -56,5 +56,24 @@ display: none;
 .fontsize-size{
     font-size: 10px;
 }
+ .background-menu{
+    background: #ffecdc;
+ }
+.display-block{
+    display: block;
+}
+.padding-11px{
+    padding: 11px;
+}
+.font-size-13px{
+font-size: 13px;
+}
+.background-trasnparent{
+    background: transparent;
+}
+.color-button{
+    color: #911c6a;
+}
+
 
 
