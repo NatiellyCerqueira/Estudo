@@ -74,6 +74,9 @@ font-size: 13px;
 .color-button{
     color: #911c6a;
 }
-
-
-
+.width-25px{
+    width: 25px;
+}
+.padding-top_10px{
+    padding-top: 10px;
+}
