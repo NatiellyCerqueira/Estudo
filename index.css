@@ -8,8 +8,8 @@
     justify-content: space-between;
 }
 
-.logo{
-    margin-top: 24px;
+.align-items_center{
+    align-items: center;
 }
  .width{
     width: 101px;
@@ -79,4 +79,13 @@ font-size: 13px;
 }
 .padding-top_10px{
     padding-top: 10px;
+}
+.width_100{
+    width: 100%;
+}
+.fill_svg{
+    fill: #911c6a;
+}
+.margin-left_9px{
+    margin-left: 9px;
 }
